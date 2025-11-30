@@ -212,7 +212,57 @@ x^2^
 ```
 
 ### Summary {#summary}
-
+```mermaid
+mindmap
+  root(markdown)
+    Heading
+      General Usage
+        "#" to "######"
+        "==="h1 and "---"h2
+      Heading IDs
+        ("### heading {#heading-id}")
+    Blockquotes
+      General Usage
+        >
+      Nested Blockquote
+        >>
+    Horizontal Rules
+      ---, ***, ___
+    Paragraph
+      remain two spaces at the end of line for line break
+    Emphasis
+      Bold
+        **, __
+      Italic
+        *, _
+      HighLight
+        ==
+      Strikethrough
+        ~~
+      Superscript
+        ^a^
+      Subscript
+        ~a~
+    Link
+      link with title
+      reference-style link
+      image
+      linking image
+    Code
+      inline code style ``
+      fenced code block ```md ```
+    Lists
+      ordered lists
+      unordered lists
+      definition lists
+      task lists
+    Table
+      table alignment
+    Footnote
+    Escape
+    Emoji 
+    Html Entities
+```
 
 ### Useful External Resources Link {#resources}
 
